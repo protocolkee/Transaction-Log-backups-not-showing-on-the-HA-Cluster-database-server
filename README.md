@@ -1,0 +1,2 @@
+# Transaction-Log-backups-not-showing-on-the-HA-Cluster-database-server
+I am using the Ola Hallengren scripts(In SQL server 2018) I have set up backup jobs (Diff,  Full, and Log) all had been running fine. But recently, the transaction log backup won't show on the backup Location. The Job is running well but when I go to the location to check the actual file, I see nothing. DIff and Full backup is still running well and the backup file can be seen on their respective location. I did check both primary and secondary sever but no luck. Any help will be much appreciated    
